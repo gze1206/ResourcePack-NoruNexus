@@ -1,13 +1,17 @@
 {
     "parent" : "minecraft:item/generated",
     "textures" : {
-        "layer0" : "minecraft:item/gold_nugget"
+        "layer0" : "minecraft:item/clock"
     },
 
     "overrides" : [
         {
             "predicate" : {"custom_model_data":1},
             "model" : "custom:item/money"
+        },
+        {
+            "predicate" : {"custom_model_data":2},
+            "model" : "custom:item/recall_scroll"
         }
     ]
 }
