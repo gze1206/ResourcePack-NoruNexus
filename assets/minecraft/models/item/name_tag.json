@@ -1,0 +1,25 @@
+{
+    "parent" : "minecraft:item/generated",
+    "textures" : {
+        "layer0" : "minecraft:item/name_tag"
+    },
+
+    "overrides" : [
+        {
+            "predicate" : {"custom_model_data":1},
+            "model" : "custom:item/title/normal"
+        },
+        {
+            "predicate" : {"custom_model_data":2},
+            "model" : "custom:item/title/rare"
+        },
+        {
+            "predicate" : {"custom_model_data":3},
+            "model" : "custom:item/title/epic"
+        },
+        {
+            "predicate" : {"custom_model_data":4},
+            "model" : "custom:item/title/legendary"
+        }
+    ]
+}
