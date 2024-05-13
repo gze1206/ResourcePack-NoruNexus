@@ -12,6 +12,58 @@
         {
             "predicate" : {"custom_model_data":2},
             "model" : "custom:item/recall_scroll"
+        },
+        {
+            "predicate": {"custom_model_data":10},
+            "model" : "custom:item/rune/none"
+        },
+        {
+            "predicate": {"custom_model_data":11},
+            "model" : "custom:item/rune/bone0"
+        },
+        {
+            "predicate": {"custom_model_data":12},
+            "model" : "custom:item/rune/bone1"
+        },
+        {
+            "predicate": {"custom_model_data":13},
+            "model" : "custom:item/rune/ender0"
+        },
+        {
+            "predicate": {"custom_model_data":14},
+            "model" : "custom:item/rune/ender1"
+        },
+        {
+            "predicate": {"custom_model_data":15},
+            "model" : "custom:item/rune/gun_powder0"
+        },
+        {
+            "predicate": {"custom_model_data":16},
+            "model" : "custom:item/rune/gun_powder1"
+        },
+        {
+            "predicate": {"custom_model_data":17},
+            "model" : "custom:item/rune/iron0"
+        },
+        {
+            "predicate": {"custom_model_data":18},
+            "model" : "custom:item/rune/iron1"
+        },
+        {
+            "predicate": {"custom_model_data":19},
+            "model" : "custom:item/rune/money0"
+        },
+        {
+            "predicate": {"custom_model_data":20},
+            "model" : "custom:item/rune/money1"
+        },
+        {
+            "predicate": {"custom_model_data":21},
+            "model" : "custom:item/rune/string0"
+        },
+        {
+            "predicate": {"custom_model_data":22},
+            "model" : "custom:item/rune/string1"
         }
     ]
 }
