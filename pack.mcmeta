@@ -1,6 +1,6 @@
 {
     "pack" : {
-        "pack_format" : 22,
+        "pack_format" : 34,
         "description" : [
             {"text":"리소스팩", "color":"white"},
             {"text":"\n"},
